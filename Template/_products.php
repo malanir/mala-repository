@@ -42,15 +42,15 @@
                 <!---    product price       -->
                 <table class="my-3">
                     <tr class="font-rale font-size-14">
-                        <td>Indomie</td>
+                        <td>Prada</td>
                         <td><strike>Rp.2500.00</strike></td>
                     </tr>
                     <tr class="font-rale font-size-14">
-                        <td>Indomiie</td>
+                        <td>Prada</td>
                         <td class="font-size-20 text-danger">Rp. <span><?php echo $item['item_price'] ?? 0; ?></span><small class="text-dark font-size-12">&nbsp;&nbsp;Inpuestos</small></td>
                     </tr>
                     <tr class="font-rale font-size-14">
-                        <td>Iindomie</td>
+                        <td>Prada</td>
                         <td><span class="font-size-16 text-danger">Rp. 2500.00</span></td>
                     </tr>
                 </table>
